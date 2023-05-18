@@ -1,6 +1,49 @@
+# Movie Search Website
+
+This is movie search website built with HTML5, CSS3, JavaScript, React, and the OMDB API. This website allows users to enter the name of a movie and retrieve movies that match the search criteria.
+
+## Features
+
+- User-friendly interface for searching movies by title.
+- Retrieves movies from the OMDB API based on the search query.
+- Displays movie information such as title, year, plot, and poster image.
+- Supports searching for movies with titles containing specific words.
+
+## Technologies Used
+
+- HTML5: Markup language for structuring the web page.
+- CSS3: Stylesheet language for enhancing the visual appearance.
+- JavaScript: Programming language for interactive functionality.
+- React: JavaScript library for building user interfaces.
+- OMDB API: External API for retrieving movie data.
+
+## Getting Started
+
+To get a local copy of the project up and running, follow these steps:
+
+1. Clone the repository:
+   git clone https://github.com/Elena-Amalia-Gabrian/MovieReact.git
+
+2. Install dependencies using npm:
+   npm install
+
+3. Start the development server:
+   npm start
+
+4. Open the website in your browser
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Usage
+
+Enter the name of a movie in the search bar.
+Click the magnifying glass icon to initiate the search.
+The website will display the movies that contain the words introduced in the search bar or "No movies found" if there are no movies with that title.
+Scroll through the results to find the desired movie information.
+
+# Getting Started with Create React App
 
 ## Available Scripts
 
@@ -68,3 +111,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Acknowledgments
+
+Create React App for the initial project setup.
+OMDB API for providing movie data.
