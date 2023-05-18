@@ -32,10 +32,6 @@ To get a local copy of the project up and running, follow these steps:
 
 4. Open the website in your browser
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 # Usage
 
 Enter the name of a movie in the search bar.
@@ -44,6 +40,8 @@ The website will display the movies that contain the words introduced in the sea
 Scroll through the results to find the desired movie information.
 
 # Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
